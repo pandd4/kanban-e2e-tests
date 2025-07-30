@@ -2,7 +2,7 @@
 
 Testes automatizados com Cypress para o site [Kanban App](https://kanban-dusky-five.vercel.app/)
 
-## 🚀 Como rodar os testes
+## 🚀 Como rodar os códigos: 
 
 1. Clone o repositório:
 ```bash
